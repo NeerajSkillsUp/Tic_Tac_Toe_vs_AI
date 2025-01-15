@@ -41,8 +41,8 @@ The AI has basic logic to block the player's winning moves and make its own winn
 7.AIPlayer(board):-                Determines the AI’s next move using simple heuristics to block the player's                                           winning moves or make its own winning moves. If no strategic move is available, 
                                    it selects a random empty position.*
 
-# Dependencies (Only Python Standard Library)
-    *The game uses only standard Python libraries, so no additional dependencies are required.*
+# Dependencies
+-The game uses only standard Python libraries, so no additional dependencies are required.
 
 # Potential Improvements
 *1.Enhanced AI:
@@ -55,10 +55,11 @@ The AI has basic logic to block the player's winning moves and make its own winn
     Add score tracking across multiple rounds.
     Include difficulty levels for the AI.*
 
-# License-This project is open-source and can be freely modified and distributed.
+# License
+-This project is open-source and can be freely modified and distributed.
 
-# Acknowledgement-
-This project was developed as a practice exercise to demonstrate basic game logic and AI implementation in Python.
+# Acknowledgement
+-This project was developed as a practice exercise to demonstrate basic game logic and AI implementation in Python.
 
 
     
