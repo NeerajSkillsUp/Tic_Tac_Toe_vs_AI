@@ -54,10 +54,7 @@ The AI has basic logic to block the player's winning moves and make its own winn
 4.Additional Features:
     Add score tracking across multiple rounds.
     Include difficulty levels for the AI.*
-
-# License
--This project is open-source and can be freely modified and distributed.
-
+    
 # Acknowledgement
 -This project was developed as a practice exercise to demonstrate basic game logic and AI implementation in Python.
 
